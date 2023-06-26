@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pandas
+db-sqlite3
+fastapi-cache2[redis]
