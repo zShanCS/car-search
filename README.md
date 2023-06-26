@@ -5,6 +5,8 @@ The Car Search Web Application is a web-based platform that allows users to sear
 # Try Now
 You can try the application now. Simple go to [Oogoocares Deta App](https://oogoocars-1-w2365740.deta.app/)
 
+Visit API Documentation on [Oogoocares Deta App API Docs](https://oogoocars-1-w2365740.deta.app/docs/)
+
 ![image](/media/sc.png) 
 ![image](/media/sc2.png) 
 ## Purpose and Scope
@@ -33,7 +35,9 @@ To achieve scalability, the following techniques and approaches have been implem
 
 2. **SQLite Database**: SQLite is a lightweight and fast database engine. While SQLite has limitations compared to more robust databases, it can handle millions of simultaneous users when appropriately optimized. Proper indexing, query optimization, and database connection pooling techniques have been implemented to improve performance and scalability.
 
-3. **Caching**: Caching techniques, such as Redis with the `fastapi-cache2[redis]` package, can be implemented to cache frequently accessed data, reducing the load on the database and improving response times. Caching helps to scale the application by minimizing the need for repeated expensive database queries.
+3. **Caching**: FastAPI Caching technique using Redis with the `fastapi-cache2[redis]` package, is implemented to cache frequently accessed data, reducing the load on the database and improving response times. Caching helps to scale the application by minimizing the need for repeated expensive database queries.
+
+4. **Frontend Optimization**: The frontend only triggers the backend search when user is finished typing, ensuring limited, necessary requests to  the API.
 
 ## Installation and Setup
 
