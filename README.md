@@ -4,6 +4,9 @@ The Car Search Web Application is a web-based platform that allows users to sear
 
 # Try Now
 You can try the application now. Simple go to [Oogoocares Deta App](https://oogoocars-1-w2365740.deta.app/)
+
+![image](/media/sc.png) 
+![image](/media/sc2.png) 
 ## Purpose and Scope
 
 The purpose of this project is to create a user-friendly and efficient car search platform that helps users find their desired cars with ease. The application provides a seamless search experience with autocomplete functionality, allowing users to type in the car's name, make, or model and receive real-time suggestions. The scope of the project includes the development of both the frontend and backend components, as well as the integration with an SQLite database to store and retrieve car data.
