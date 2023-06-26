@@ -3,9 +3,9 @@
 The Car Search Web Application is a web-based platform that allows users to search for both used and new cars based on various criteria such as make, model. The application provides autocomplete suggestions as the user types, making it easy to find the desired cars quickly. It utilizes FastAPI as the backend framework, SQLite as the database, and HTML/CSS/JavaScript for the frontend.
 
 # Try Now
-You can try the application now. Simple go to [Oogoocares Deta App](https://oogoocars-1-w2365740.deta.app/)
+You can try the application now. Simple go to [Oogoocars Deta App](https://oogoocars-1-w2365740.deta.app/)
 
-Visit API Documentation on [Oogoocares Deta App API Docs](https://oogoocars-1-w2365740.deta.app/docs/)
+Visit API Documentation on [Oogoocars Deta App API Docs](https://oogoocars-1-w2365740.deta.app/docs/)
 
 ![image](/media/sc.png) 
 ![image](/media/sc2.png) 
