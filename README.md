@@ -7,8 +7,8 @@ You can try the application now. Simple go to [Oogoocars Deta App](https://oogoo
 
 Visit API Documentation on [Oogoocars Deta App API Docs](https://oogoocars-1-w2365740.deta.app/docs/)
 
-![image](/media/sc.png) 
-![image](/media/sc2.png) 
+![image](/media/sc3.png) 
+![image](/media/sc4.png) 
 ## Purpose and Scope
 
 The purpose of this project is to create a user-friendly and efficient car search platform that helps users find their desired cars with ease. The application provides a seamless search experience with autocomplete functionality, allowing users to type in the car's name, make, or model and receive real-time suggestions. The scope of the project includes the development of both the frontend and backend components, as well as the integration with an SQLite database to store and retrieve car data.
