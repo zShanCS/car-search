@@ -25,7 +25,7 @@ The Car Search Web Application offers the following features:
 
 4. Load More: The application includes a "Load More" functionality that allows users to fetch additional cars as they scroll through the search results. This feature enhances usability and provides a seamless browsing experience.
 
-5. Scalability: The application is designed to be scalable to handle a large number of concurrent users without compromising performance. Techniques such as asynchronous request handling and efficient database queries have been implemented to support scalability.
+5. Scalability: The application is designed to be scalable to handle a large number of concurrent users without compromising performance. Techniques such as caching of requests using reddis (an in memory caching mechanism), asynchronous request handling and efficient database queries have been implemented to support scalability.
 
 ## Scalability Implementation
 
